@@ -8,6 +8,7 @@ public class HelloGit {
 		//π‰∏‘¿∏¥œ±Ó¡π∏Æ¥Á
 		//¡π∏Æ¥Á
 		//ƒøπ‘
+		//addindex«œ∞Ì
 	}
 
 }
