@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("ºº«ˆ¿Ãæ”¥®");
 		//π‰∏‘¿∏¥œ±Ó¡π∏Æ¥Á
 		//¡π∏Æ¥Á
+		System.out.println("«Ô∑Œ«Ô∑Œ");
 	}
 
 }
