@@ -7,8 +7,6 @@ public class HelloGit {
 		System.out.println("¼¼ÇöÀÌ¾Ó´¨");
 		//¹ä¸ÔÀ¸´Ï±îÁ¹¸®´ç
 		//Á¹¸®´ç
-		//Ä¿¹Ô
-		//addindexÇÏ°í
 	}
 
 }
